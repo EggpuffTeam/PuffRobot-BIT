@@ -1,0 +1,257 @@
+{
+    "input_path": "./images/license/slot2.png",
+    "page_index": null,
+    "model_settings": {
+        "use_doc_preprocessor": true,
+        "use_textline_orientation": false
+    },
+    "doc_preprocessor_res": {
+        "input_path": null,
+        "page_index": null,
+        "model_settings": {
+            "use_doc_orientation_classify": false,
+            "use_doc_unwarping": false
+        },
+        "angle": -1
+    },
+    "dt_polys": [
+        [
+            [
+                178,
+                53
+            ],
+            [
+                1907,
+                55
+            ],
+            [
+                1907,
+                129
+            ],
+            [
+                178,
+                127
+            ]
+        ],
+        [
+            [
+                53,
+                68
+            ],
+            [
+                82,
+                68
+            ],
+            [
+                82,
+                102
+            ],
+            [
+                53,
+                102
+            ]
+        ],
+        [
+            [
+                181,
+                157
+            ],
+            [
+                1747,
+                159
+            ],
+            [
+                1747,
+                232
+            ],
+            [
+                181,
+                230
+            ]
+        ],
+        [
+            [
+                180,
+                256
+            ],
+            [
+                1887,
+                250
+            ],
+            [
+                1887,
+                334
+            ],
+            [
+                181,
+                340
+            ]
+        ],
+        [
+            [
+                185,
+                363
+            ],
+            [
+                1693,
+                365
+            ],
+            [
+                1693,
+                438
+            ],
+            [
+                185,
+                435
+            ]
+        ],
+        [
+            [
+                49,
+                374
+            ],
+            [
+                82,
+                374
+            ],
+            [
+                82,
+                417
+            ],
+            [
+                49,
+                417
+            ]
+        ]
+    ],
+    "text_det_params": {
+        "limit_side_len": 2,
+        "limit_type": "min",
+        "thresh": 0.3,
+        "max_side_limit": 4000,
+        "box_thresh": 0.7,
+        "unclip_ratio": 1.5
+    },
+    "text_type": "general",
+    "textline_orientation_angles": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+    ],
+    "text_rec_score_thresh": 0.6,
+    "rec_texts": [
+        "Mid-thickness (non-hydrogen producing media)",
+        "Mid-thickness (hydrogen producing media)",
+        "Top surface (non-hydrogen producing media)",
+        "Top surface (hydrogen producing media)"
+    ],
+    "rec_scores": [
+        0.9966514110565186,
+        0.9987688064575195,
+        0.9990060925483704,
+        0.9897676706314087
+    ],
+    "rec_polys": [
+        [
+            [
+                178,
+                53
+            ],
+            [
+                1907,
+                55
+            ],
+            [
+                1907,
+                129
+            ],
+            [
+                178,
+                127
+            ]
+        ],
+        [
+            [
+                181,
+                157
+            ],
+            [
+                1747,
+                159
+            ],
+            [
+                1747,
+                232
+            ],
+            [
+                181,
+                230
+            ]
+        ],
+        [
+            [
+                180,
+                256
+            ],
+            [
+                1887,
+                250
+            ],
+            [
+                1887,
+                334
+            ],
+            [
+                181,
+                340
+            ]
+        ],
+        [
+            [
+                185,
+                363
+            ],
+            [
+                1693,
+                365
+            ],
+            [
+                1693,
+                438
+            ],
+            [
+                185,
+                435
+            ]
+        ]
+    ],
+    "rec_boxes": [
+        [
+            178,
+            53,
+            1907,
+            129
+        ],
+        [
+            181,
+            157,
+            1747,
+            232
+        ],
+        [
+            180,
+            250,
+            1887,
+            340
+        ],
+        [
+            185,
+            363,
+            1693,
+            438
+        ]
+    ]
+}
